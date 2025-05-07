@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M-Taha-98/Sales-and-Profitability-Analysis/blob/main/Superstore_Sales_Analysis.ipynb)
+
 # Superstore Sales and Profitability Analysis
 ###### Comprehensive Project including Data Wrangling, Exploratory Analysis and Business Recommendations
 
@@ -83,4 +85,7 @@ The following assumptions and caveats are notified:
 - [Stack Overflow](https://stackoverflow.com)
 - [Matplotlib Library](https://matplotlib.org/)
 - [Seaborn Library](https://seaborn.pydata.org/index.html)
+___
+
+[View on Kaggle](https://www.kaggle.com/code/mohammadtaha2024/superstore-sales-and-profitability-analysis/notebook?scriptVersionId=238158457)
 
