@@ -1,2 +1,86 @@
-# Sales-and-Profitability-Analysis
-Comprehensive project including data wrangling, exploratory analysis and business recommendations
+# Superstore Sales and Profitability Analysis
+###### Comprehensive Project including Data Wrangling, Exploratory Analysis and Business Recommendations
+
+[![Data-driven-2.png](https://i.postimg.cc/vTSLTfKt/Data-driven-2.png)](https://postimg.cc/wRLsbyg1)
+___
+### Project Overview
+
+The management team at a retail superstore chain is seeking a deeper understanding of its sales performance. This project investigates the impact of product categories, geographic regions, customer segments, and discounting strategies on overall profitability and performance.
+
+### Data Source
+The primary data used for this project is the "Superstore Dataset raw.csv" file which records each sale transaction within an order spanning from 2014 to 2017.
+
+*Dataset Description*: 
+
+The dataset contains retail transaction data with the following features:<br>
+
+● Order Date: Date when the order was placed<br>
+● Ship Date: Date when the product was shipped<br>
+● Ship Mode: Shipping method used (e.g., Second Class, Standard Class)<br>
+● Customer ID/Name: Information about the customer<br>
+● Segment: Market segment (Consumer, Corporate, Home Office)<br>
+● Region, State, City: Geographic location<br>
+● Product ID/Name: Information about the product<br>
+● Category / Sub-Category: Product hierarchy<br>
+● Sales, Quantity, Discount, Profit: Financial details per transaction<br>
+
+### Tools Used
+
+- Python
+- Libraries: Matplotlib, Seaborn, Numpy, Pandas
+
+### Data Preparation/Cleaning
+In the initial data preparation stage, following tasks are performed:
+- Data loading and inspection
+- Data validation 
+- Data cleaning and formatting
+- Handling missing and duplicate values
+- Adding custom features
+
+### Exploratory Analysis
+In this stage, the data was explored to identify data’s structure, quality, and limitations:
+- Data Profiling/ Initial Data Diagnostics/Data Summarization: descriptive statistics, cardinality check, data type inspection, correlation analysis.
+
+### Data Analysis
+The analysis step involved performing bivariate and multivariate analysis to explore how different features affect Sales/Profit as well as other features.
+
+Few of the dimensions and relationships explored are:
+
+- Which product categories and sub-categories are leading in revenue generation and those performing poorly.
+- Impact of discount variability on margins across different product categories, and identifying profitable discount thresholds.
+- Time series analysis: time-based trends in category level performance.
+- Identifying customer segments that bring in the most volume and profit.
+- Regional performance disparities.
+- Analyzing performance of different ship modes and order delays to narrow logistical inefficiencies.
+
+### Results/Findings
+The insights are presented for key business areas:
+
+- Seasonal Trend
+- Overall Product Performance
+- Product Portfolio Analysis
+- Regional Analysis
+- Customer Segmentation
+- Discount Effectiveness
+- Ship Mode and Delays Trend
+  
+### Recommendations
+Based on the analysis, tailored actionable business recommendations are made categorized as follows:
+
+- Product Strategy
+- Regional Customer Growth and Retention
+- Discount Optimization
+- Addressing Logistical Shortcomings
+  
+### Limitations
+The following assumptions and caveats are notified:
+
+-  It is assumed that the discount value in each transaction record is applied to the total quantity purchased, not just to a single unit.
+-  The absence of cost-related data—specifically unit cost price (COGS) and logistics costs limits the ability to fully explain certain observations.
+ 
+### References
+
+- [Stack Overflow](https://stackoverflow.com)
+- [Matplotlib Library](https://matplotlib.org/)
+- [Seaborn Library](https://seaborn.pydata.org/index.html)
+
