@@ -1,9 +1,33 @@
+<!-- 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M-Taha-98/Sales-and-Profitability-Analysis/blob/main/Superstore_Sales_Analysis.ipynb)
+-->
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <a href="https://colab.research.google.com/github/M-Taha-98/Sales-and-Profitability-Analysis/blob/main/Superstore_Sales_Analysis.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.kaggle.com/code/mohammadtaha2024/superstore-sales-and-profitability-analysis/notebook?scriptVersionId=238158457">
+          <img src="https://img.shields.io/badge/View%20Project%20on-Kaggle-20BEFF?logo=kaggle&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/mohammadtaha-businessanalytics/">
+          <img src="https://img.shields.io/badge/Visit%20Profile%20on-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="Visit Profile on LinkedIn" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 # Superstore Sales and Profitability Analysis
 ###### Comprehensive Project including Data Wrangling, Exploratory Analysis and Business Recommendations
 
-[![Data-driven-2.png](https://i.postimg.cc/vTSLTfKt/Data-driven-2.png)](https://postimg.cc/wRLsbyg1)
+![Data-driven-2](https://github.com/user-attachments/assets/d5c3c824-176c-4ca1-896e-e1a5edc4d4ea)
 ___
 ### Project Overview
 
@@ -86,6 +110,7 @@ The following assumptions and caveats are notified:
 - [Matplotlib Library](https://matplotlib.org/)
 - [Seaborn Library](https://seaborn.pydata.org/index.html)
 ___
-
+<!-- 
 [View on Kaggle](https://www.kaggle.com/code/mohammadtaha2024/superstore-sales-and-profitability-analysis/notebook?scriptVersionId=238158457)
+-->
 
